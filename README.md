@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Testing library reference (https://github.com/testing-library/jest-dom)
 
+getByRole - Role reference (https://www.w3.org/TR/wai-aria-1.1/#role_definitions)
+
 In the project directory, you can run:
 
 ### `npm start`
