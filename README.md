@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with React testing with Jest
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Resource
+
+Testing library reference (https://github.com/testing-library/jest-dom)
 
 In the project directory, you can run:
 
