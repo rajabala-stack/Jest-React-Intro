@@ -8,6 +8,8 @@ Jest-dom library reference (https://github.com/testing-library/jest-dom)
 
 Testing library cheatsheet (https://testing-library.com/docs/react-testing-library/cheatsheet/)
 
+Testing library learning Material (https://testing-library.com/docs/learning)
+
 getByRole - Role reference (https://www.w3.org/TR/wai-aria-1.1/#role_definitions)
 
 Extra user event library reference (https://github.com/testing-library/user-event)
