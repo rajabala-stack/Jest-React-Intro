@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Resource
 
-Testing library reference (https://github.com/testing-library/jest-dom)
+Jest-dom library reference (https://github.com/testing-library/jest-dom)
 
 
 Testing library cheatsheet (https://testing-library.com/docs/react-testing-library/cheatsheet/)
