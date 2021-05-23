@@ -12,6 +12,9 @@ Testing library cheatsheet (https://testing-library.com/docs/react-testing-libra
 
 getByRole - Role reference (https://www.w3.org/TR/wai-aria-1.1/#role_definitions)
 
+
+Extra user event (https://github.com/testing-library/user-event)
+
 In the project directory, you can run:
 
 ### `npm start`
