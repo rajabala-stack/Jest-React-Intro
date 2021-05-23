@@ -6,14 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Jest-dom library reference (https://github.com/testing-library/jest-dom)
 
-
 Testing library cheatsheet (https://testing-library.com/docs/react-testing-library/cheatsheet/)
-
 
 getByRole - Role reference (https://www.w3.org/TR/wai-aria-1.1/#role_definitions)
 
-
-Extra user event (https://github.com/testing-library/user-event)
+Extra user event library reference (https://github.com/testing-library/user-event)
 
 In the project directory, you can run:
 
